@@ -1,2 +1,2 @@
-# microverse_practice_seesion
+# microversePracticeSession
 here Microverse practice session exercises will be done
